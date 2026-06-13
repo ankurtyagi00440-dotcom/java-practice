@@ -1,5 +1,5 @@
 import java.util.*;
-public class Sum {
+public class Summ {
     public static void main(String[] args) {
         System.out.println("Enter any number: ");
         Scanner sc = new Scanner(System.in);
